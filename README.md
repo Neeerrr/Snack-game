@@ -202,9 +202,11 @@ Like we have created a snake class similarly we also need a food class. Which is
                                    gameLoop()</code>
   </pre>
 
+Here comes the end part of our snake game using python which is a game loop. which is needed in every game for continuing the game and occurring everything continuously from food to score.
 
 # Out put 
-![image](https://user-images.githubusercontent.com/98451723/169068990-80c06274-523a-410a-9655-a848ab4a4398.png)
+![image](https://user-images.githubusercontent.com/98451723/169068990-80c06274-523a-410a-9655-a848ab4a4398.png)<br>
+
 
 
 
